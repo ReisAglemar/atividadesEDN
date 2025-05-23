@@ -1,4 +1,6 @@
 #Encontre o erro e corrija-o
-class = "Tecnologia"
+palavraNaoReservada = "Tecnologia"
 
-print(class)
+print(palavraNaoReservada)
+
+#class é uma palavra reservada e não pode ser usada como variável
