@@ -7,3 +7,8 @@ x = 10
 y = "Dez"
 print(type(x))
 print(type(y))
+
+x = 10.56
+y = True
+print(type(x))
+print(type(y))
