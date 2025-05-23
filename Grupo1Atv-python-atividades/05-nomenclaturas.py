@@ -1,8 +1,10 @@
 #Corrija o nome das variaveis abaixo seguindo as boas práticas
 
-user_name = "Bob"
+userName = "Bob"
 UserName = "Zorro"  
-nomedomeio = "Fernandes"
+nomeDoMeio = "Fernandes"
+
+#aplicado camelCase
 
 
 
