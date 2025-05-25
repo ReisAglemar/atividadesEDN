@@ -1,6 +1,3 @@
-
-
-
 def classificacao(classificacao):
     print(f"Com base na sua idade, você está classificado como: {classificacao}")
 
