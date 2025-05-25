@@ -1,4 +1,4 @@
-def verficaSenha(senha):
+def verificaSenha(senha):
     if len(senha) > 7:
         for c in senha:
             if c.isnumeric():
@@ -17,7 +17,7 @@ def main():
             print("Programa encerrado!")
             break
 
-        if verficaSenha(senha):
+        if verificaSenha(senha):
             print("Sua senha é considerada uma senha válida!")
             print(f"Sua senha: {senha}")
             break
